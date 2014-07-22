@@ -1,5 +1,3 @@
 module SimpleCache
-  module Ruby
-    VERSION = "0.0.1"
-  end
+  VERSION = "0.0.1"
 end
